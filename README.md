@@ -20,3 +20,5 @@
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/.LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/franklyn-yoel-ferrera-diaz)</br>
 
+[![Email](https://img.shields.io/badge/.Email-red?style=for-the-badge&logo=Email&logoColor=white&labelColor=101010)](https://mailto:franklynferrera@gmail.com)</br>
+
