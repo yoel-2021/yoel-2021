@@ -15,5 +15,8 @@
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![Azure](https://img.shields.io/badge/Azure-9cf?style=for-the-badge&logo=azure&logoColor=white&labelColor=101010)</br>
 
-## I have made different projects, among which are an api RestFul with a jwt token, a chat that can be executed in real time, a user system in windows forms, among others that you can see in my repositories.
+## I have made different projects, among which are an api RestFul with a jwt token, a chat that can be executed in real time, a user system in windows forms, among others that you can see in my repositories. </br>
+
+## Contact
+![LinkedIn](https://img.shields.io/badge/.LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)</br>
 
