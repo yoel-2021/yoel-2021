@@ -6,6 +6,6 @@
 
 ##Skills:
 
-![dotnet](https://img.shields.io/badge/.NET-3D0C84?style=for-the-badge&logo=net&logoColor=white&labelColor=white)</br>
-![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=white)</br>
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=white)</br>
+![dotnet](https://img.shields.io/badge/.NET-3D0C84?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)</br>
+![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)</br>
