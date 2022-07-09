@@ -18,7 +18,7 @@
 ## I have made different projects, among which are an api RestFul with a jwt token, a chat that can be executed in real time, a user system in windows forms, among others that you can see in my repositories. </br>
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/.LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/franklyn-yoel-ferrera-diaz)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/franklyn-yoel-ferrera-diaz)</br>
 
-[![Email](https://img.shields.io/badge/.Email-red?style=for-the-badge&logo=Email&logoColor=white&labelColor=101010)](https://mailto:franklynferrera@gmail.com)</br>
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white&labelColor=101010)](https://mailto:franklynferrera@gmail.com)</br>
 
