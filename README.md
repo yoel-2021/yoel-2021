@@ -11,3 +11,5 @@
 ![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mySQL&logoColor=white&labelColor=101010)</br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgreSQL&logoColor=white&labelColor=101010)</br>
+![Azure](https://img.shields.io/badge/Azure-9cf?style=for-the-badge&logo=azure&logoColor=white&labelColor=101010)</br>
