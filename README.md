@@ -6,4 +6,4 @@
 
 ##Skills
 
-![dotnet](https://img.shields.io/badge/.NET-3D0C84?style=for-the-badge&log=net&logoColor=white&labelColor=101010)</br>
+![dotnet](https://img.shields.io/badge/.NET-3D0C84?style=for-the-badge&log=android&logoColor=white&labelColor=101010)</br>
